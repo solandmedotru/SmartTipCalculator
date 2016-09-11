@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enter_amount">Введите сумму</string>
+    <string name="tip">На чай</string>
+    <string name="total">Всего</string>
+</resources>
